@@ -22,3 +22,11 @@ To pull the Docker image from Docker Hub, run the following command in your term
 
 ```bash
 docker pull devanshkhandelwalll/rubyprojectdev
+
+```bash
+docker run -p 3000:3000 devanshkhandelwalll/rubyprojectdev
+
+
+```bash
+http://localhost:3000
+
