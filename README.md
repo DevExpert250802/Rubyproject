@@ -1,24 +1,24 @@
-# README
+# Ruby Project Docker Image
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This repository contains a Docker image for a Ruby-based project. The image is designed to easily run the Ruby project in a containerized environment, providing all dependencies and configurations required to run the project seamlessly.
 
-Things you may want to cover:
+## Docker Image
 
-* Ruby version
+The Docker image for this project is available on Docker Hub.
 
-* System dependencies
+- **Docker Image Name**: `devanshkhandelwalll/rubyprojectdev`
 
-* Configuration
+## Getting Started
 
-* Database creation
+To get started with the Ruby project Docker container, follow the steps below:
 
-* Database initialization
+### Prerequisites
 
-* How to run the test suite
+Make sure you have Docker installed on your machine. You can download and install Docker from [Docker's official website](https://www.docker.com/get-started).
 
-* Services (job queues, cache servers, search engines, etc.)
+### Pull the Docker Image
 
-* Deployment instructions
+To pull the Docker image from Docker Hub, run the following command in your terminal:
 
-* ...
+```bash
+docker pull devanshkhandelwalll/rubyprojectdev
